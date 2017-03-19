@@ -1,0 +1,23 @@
+body
+{
+	background: peachpuff;
+}
+h1
+{
+	text-align: center;
+	font-size: 35px;
+}
+.bands
+{
+	background: whitesmoke;
+	width: 40%;
+	position: absolute;
+	top: 10%;
+	left: 28%;
+	font-size: 25px;
+	padding: 27px 20px 16px 60px;;
+}
+ul li
+{
+	padding-bottom: 15px;
+}
